@@ -4,7 +4,7 @@ public class Methodoverloading {
 
 	public static void main(String[] args) {
 	
-			System.out.println(sub(5,2));
+			System.out.println(sub(7,2));
 			System.out.println(sub(6,2.5));
 			System.out.println(sub(10.5,5.5,3.1));
 			System.out.println(sub(5.2,2.2));
